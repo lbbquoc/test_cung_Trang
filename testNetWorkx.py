@@ -15,6 +15,9 @@ g.add_edges_from([(2,5),(1,3)], color = 'red')
 print (type(g.edges()))
 print (nx.info(g))
 
+#aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+
 nx.draw(g, with_labels = 1)
 
 plt.show()
